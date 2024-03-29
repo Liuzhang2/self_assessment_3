@@ -1,3 +1,8 @@
+---
+title: "Self-assessment"
+author: Lily
+format: pdf
+---
 ### Self-assessment 3
 
 ## What did I learn in three chapters?
@@ -14,6 +19,7 @@ This reflection emphasizes the progression in understanding and handling data co
 
 ## The most confusing:
 Our current coding work is all carried out with the aid of materials provided by our teacher. Without the guidance from these materials, how can we independently complete a piece of code or conduct a research project on our own? If we lack the professor's input—such as code examples, forks, and various resources—how can we conduct research or manage a fork/curate by ourselves?
+
 
 
 
